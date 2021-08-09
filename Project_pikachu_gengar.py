@@ -1,4 +1,3 @@
-"Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long"
 import random as random
 g = int(input("How many enemies are there?: "))
 gengar_attack = [1, 2, 3]
